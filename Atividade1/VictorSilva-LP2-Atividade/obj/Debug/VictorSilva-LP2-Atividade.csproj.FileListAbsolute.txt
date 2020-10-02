@@ -1,0 +1,10 @@
+C:\Users\victo\Desktop\VictorSilva-LP2-Atividade\VictorSilva-LP2-Atividade\obj\Debug\VictorSilva-LP2-Atividade.csprojAssemblyReference.cache
+C:\Users\victo\Desktop\VictorSilva-LP2-Atividade\VictorSilva-LP2-Atividade\obj\Debug\VictorSilva_LP2_Atividade.Form1.resources
+C:\Users\victo\Desktop\VictorSilva-LP2-Atividade\VictorSilva-LP2-Atividade\obj\Debug\VictorSilva_LP2_Atividade.Properties.Resources.resources
+C:\Users\victo\Desktop\VictorSilva-LP2-Atividade\VictorSilva-LP2-Atividade\obj\Debug\VictorSilva-LP2-Atividade.csproj.GenerateResource.cache
+C:\Users\victo\Desktop\VictorSilva-LP2-Atividade\VictorSilva-LP2-Atividade\obj\Debug\VictorSilva-LP2-Atividade.csproj.CoreCompileInputs.cache
+C:\Users\victo\Desktop\VictorSilva-LP2-Atividade\VictorSilva-LP2-Atividade\bin\Debug\VictorSilva-LP2-Atividade.exe.config
+C:\Users\victo\Desktop\VictorSilva-LP2-Atividade\VictorSilva-LP2-Atividade\bin\Debug\VictorSilva-LP2-Atividade.exe
+C:\Users\victo\Desktop\VictorSilva-LP2-Atividade\VictorSilva-LP2-Atividade\bin\Debug\VictorSilva-LP2-Atividade.pdb
+C:\Users\victo\Desktop\VictorSilva-LP2-Atividade\VictorSilva-LP2-Atividade\obj\Debug\VictorSilva-LP2-Atividade.exe
+C:\Users\victo\Desktop\VictorSilva-LP2-Atividade\VictorSilva-LP2-Atividade\obj\Debug\VictorSilva-LP2-Atividade.pdb

@@ -1,0 +1,10 @@
+C:\Users\victo\Desktop\PCalculadora\PCalculadora\obj\Debug\PCalculadora.csprojAssemblyReference.cache
+C:\Users\victo\Desktop\PCalculadora\PCalculadora\obj\Debug\PCalculadora.Form1.resources
+C:\Users\victo\Desktop\PCalculadora\PCalculadora\obj\Debug\PCalculadora.Properties.Resources.resources
+C:\Users\victo\Desktop\PCalculadora\PCalculadora\obj\Debug\PCalculadora.csproj.GenerateResource.cache
+C:\Users\victo\Desktop\PCalculadora\PCalculadora\obj\Debug\PCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\victo\Desktop\PCalculadora\PCalculadora\bin\Debug\PCalculadora.exe.config
+C:\Users\victo\Desktop\PCalculadora\PCalculadora\bin\Debug\PCalculadora.exe
+C:\Users\victo\Desktop\PCalculadora\PCalculadora\bin\Debug\PCalculadora.pdb
+C:\Users\victo\Desktop\PCalculadora\PCalculadora\obj\Debug\PCalculadora.exe
+C:\Users\victo\Desktop\PCalculadora\PCalculadora\obj\Debug\PCalculadora.pdb

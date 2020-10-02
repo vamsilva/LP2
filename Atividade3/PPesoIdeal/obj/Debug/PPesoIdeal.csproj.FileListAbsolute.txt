@@ -1,0 +1,10 @@
+C:\Users\victo\Desktop\PPesoIdeal\PPesoIdeal\bin\Debug\PPesoIdeal.exe.config
+C:\Users\victo\Desktop\PPesoIdeal\PPesoIdeal\bin\Debug\PPesoIdeal.exe
+C:\Users\victo\Desktop\PPesoIdeal\PPesoIdeal\bin\Debug\PPesoIdeal.pdb
+C:\Users\victo\Desktop\PPesoIdeal\PPesoIdeal\obj\Debug\PPesoIdeal.csprojAssemblyReference.cache
+C:\Users\victo\Desktop\PPesoIdeal\PPesoIdeal\obj\Debug\PPesoIdeal.Form1.resources
+C:\Users\victo\Desktop\PPesoIdeal\PPesoIdeal\obj\Debug\PPesoIdeal.Properties.Resources.resources
+C:\Users\victo\Desktop\PPesoIdeal\PPesoIdeal\obj\Debug\PPesoIdeal.csproj.GenerateResource.cache
+C:\Users\victo\Desktop\PPesoIdeal\PPesoIdeal\obj\Debug\PPesoIdeal.csproj.CoreCompileInputs.cache
+C:\Users\victo\Desktop\PPesoIdeal\PPesoIdeal\obj\Debug\PPesoIdeal.exe
+C:\Users\victo\Desktop\PPesoIdeal\PPesoIdeal\obj\Debug\PPesoIdeal.pdb
