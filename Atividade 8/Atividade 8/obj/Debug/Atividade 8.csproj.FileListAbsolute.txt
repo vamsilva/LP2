@@ -1,0 +1,11 @@
+C:\Users\victo\Desktop\Atividade 8\Atividade 8\bin\Debug\Atividade 8.exe.config
+C:\Users\victo\Desktop\Atividade 8\Atividade 8\bin\Debug\Atividade 8.exe
+C:\Users\victo\Desktop\Atividade 8\Atividade 8\bin\Debug\Atividade 8.pdb
+C:\Users\victo\Desktop\Atividade 8\Atividade 8\obj\Debug\Atividade 8.csprojAssemblyReference.cache
+C:\Users\victo\Desktop\Atividade 8\Atividade 8\obj\Debug\Atividade_8.Form1.resources
+C:\Users\victo\Desktop\Atividade 8\Atividade 8\obj\Debug\Atividade_8.frmExercicio7.resources
+C:\Users\victo\Desktop\Atividade 8\Atividade 8\obj\Debug\Atividade_8.Properties.Resources.resources
+C:\Users\victo\Desktop\Atividade 8\Atividade 8\obj\Debug\Atividade 8.csproj.GenerateResource.cache
+C:\Users\victo\Desktop\Atividade 8\Atividade 8\obj\Debug\Atividade 8.csproj.CoreCompileInputs.cache
+C:\Users\victo\Desktop\Atividade 8\Atividade 8\obj\Debug\Atividade 8.exe
+C:\Users\victo\Desktop\Atividade 8\Atividade 8\obj\Debug\Atividade 8.pdb
